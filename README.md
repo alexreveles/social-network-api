@@ -1,7 +1,7 @@
 ### Social Network API ![Github License](https://img.shields.io/badge/license-MIT-red.svg)
   
 ## Description
-As A social media startup, I Want an API for my social network that uses a NoSQL database
+As a social media startup, I Want an API for my social network that uses a NoSQL database
 SO that my website can handle large amounts of unstructured data.
 
 
